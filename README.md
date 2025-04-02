@@ -1,4 +1,6 @@
 # Sistema de Avaliação de Livros
+Aluno: Luan Carlos Gama dos Santos
+RA: 1012023100691
 
 Este projeto é um sistema de avaliação de livros, onde os usuários podem cadastrar livros, avaliar livros, adicionar comentários e visualizar as melhores recomendações baseadas nas avaliações. O sistema segue os princípios da Programação Orientada a Objetos (POO), utilizando conceitos como abstração, encapsulamento, herança e polimorfismo para garantir um código modular, reutilizável e de fácil manutenção.
 
